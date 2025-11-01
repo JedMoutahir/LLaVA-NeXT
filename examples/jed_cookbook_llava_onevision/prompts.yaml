@@ -1,0 +1,5 @@
+# You can extend presets here and import them in cookbook_infer.py if you want.
+# This file is optional and not used by default.
+# Example:
+# chart_qa_strict: |
+#   You are a data visualization expert...
